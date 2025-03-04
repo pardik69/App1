@@ -1,0 +1,8 @@
+steps to perform push operation 
+gut init
+git status
+git add .
+git status
+git commit -m"First commit"
+git remote add origin "URL of Repository"
+git push origin master
